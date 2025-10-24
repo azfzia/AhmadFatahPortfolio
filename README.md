@@ -1,12 +1,16 @@
 # AhmadFatahPortfolio
-<h1>Hi, I'm Ahmad! <br/><a href="https://github.com/azfzia/Java">Programmer</a>, <a >Cybersecurity Professional</a>, <a >Information Technology Specialist</a></h1>
+<h1>Hi, I'm Ahmad! <br/>
+  <a >Information Technology Specialist</a>,
+  <a >Cybersecurity Learner</a>, 
+  <a href="https://github.com/azfzia/Java">Java Programmer</a>
+  </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Data Structures and Algorithms Practice </b>
+  - [Practicing DS & Algos in Java]
+- <b>Full Stack Web App (React, NodeJS, JS, CSS, HTML, Java, MySQL)</b>
+  - EZ Car Rental System <b>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
@@ -21,9 +25,10 @@
 
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2> Contact info:</h2>
 
-
-[LinkedIn]: linkedin.com/in/ahmad-fatah-b2a6272b6
-[Email] :   ahmad.fatah.zia@gmail.com
+-<a href="linkedin.com/in/ahmad-fatah-b2a6272b6"> LinkedIn: Ahmad Fatah  </a>
+<br>
+-<a>
+    Email:   ahmad.fatah.zia@gmail.com  </a>
 
