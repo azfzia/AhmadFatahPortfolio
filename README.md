@@ -26,9 +26,12 @@
 
 
 <h2> Contact info:</h2>
+<b>LinkedIn:</b>
+<a href="https://www.linkedin.com/in/ahmad-fatah-b2a6272b6" target="_blank" rel="noopener noreferrer">
+  Ahmad Fatah
+</a>
 
--<a href="linkedin.com/in/ahmad-fatah-b2a6272b6"> LinkedIn: Ahmad Fatah  </a>
 <br>
--<a>
+<a>
     Email:   ahmad.fatah.zia@gmail.com  </a>
 
