@@ -36,7 +36,7 @@
     </li>
     <li>
       <b>GitHub:</b>
-      <a href="https://github.com/YOUR_GITHUB](https://github.com/azfzia" target="_blank" rel="noopener noreferrer">
+      <a href="https://github.com/azfzia" target="_blank" rel="noopener noreferrer">
         Ahmad's GitHub
       </a>
     </li>
