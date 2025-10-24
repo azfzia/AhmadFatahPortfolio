@@ -25,13 +25,28 @@
 
 
 
-<h2> Contact info:</h2>
-<b>LinkedIn:</b>
-<a href="https://www.linkedin.com/in/ahmad-fatah-b2a6272b6" target="_blank" rel="noopener noreferrer">
-  Ahmad Fatah
-</a>
-
-<br>
-<a>
-    Email:   ahmad.fatah.zia@gmail.com  </a>
-
+<footer aria-labelledby="contact">
+  <h2 id="contact">Contact</h2>
+  <ul>
+    <li>
+      <b>LinkedIn:</b>
+      <a href="https://www.linkedin.com/in/ahmad-fatah-b2a6272b6" target="_blank" rel="noopener noreferrer">
+        Ahmad Fatah
+      </a>
+    </li>
+    <li>
+      <b>GitHub:</b>
+      <a href="https://github.com/YOUR_GITHUB](https://github.com/azfzia" target="_blank" rel="noopener noreferrer">
+        Ahmad's GitHub
+      </a>
+    </li>
+    </li>
+    <li><b>Phone:</b> +1 347-264-8685</li>
+    <li>
+      <b>Email:</b>
+      <a href="mailto:ahmad.fatah.zia@gmail.com">ahmad.fatah.zia@gmail.com</a>
+    </li>
+    
+  
+  </ul>
+</footer>
