@@ -1,4 +1,4 @@
-jjjjjjjjjjjjjjjjjjj# AhmadFatahPortfolio
+AhmadFatahPortfolio
 <h1>Hi, I'm Ahmad! <br/>
   <a >Information Technology Specialist</a>,
   <a >Cybersecurity Learner</a>, 
